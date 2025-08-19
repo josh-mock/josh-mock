@@ -1,14 +1,16 @@
 # Hi there, I'm Josh 👋
 
-Welcome to my GitHub profile! I'm a passionate **Fullstack Web Developer** focused on building robust and user-friendly web applications. Here you'll find a showcase of my ongoing work, open-source contributions, and personal projects.
+I'm a **Full-Stack Web Developer** with a strong interest in **data-driven applications**. I love building scalable web apps that **solve real-world problems** and turn complex data into **meaningful insights**.
 
 ---
 
 ## 🚀 About Me
 
-- 💼 **Profession:** Fullstack Web Developer
-- 🌱 **Learning:** Always exploring the latest in JavaScript frameworks, serverless architectures, and cloud deployment strategies.
-- 🤝 **Open to Collaboration:** Happy to connect and work on innovative web projects!
+I graduated with a **BA in Arabic and Persian** and currently work in disputes and investigations, where attention to detail and analytical thinking are key.
+
+After discovering a love for problem-solving, I taught myself **Python** through **Harvard's CS50** and recently completed the **full-stack web development program** at [The Jump Digital School](https://www.thejump.tech/).
+
+I'm now looking to launch my career in tech, where I can combine my curiosity, technical skills, and drive to build tools that solve real problems.
 
 ---
 
