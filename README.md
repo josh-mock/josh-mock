@@ -26,9 +26,9 @@ I'm now looking to launch my career in tech, where I can combine my curiosity, t
 
 ## 📌 Featured Projects
 
-Browse my repositories below for a closer look at what I've built and contributed to:
-
-- [josh-mock on GitHub](https://github.com/josh-mock?tab=repositories)
+- [Land Registry Search](https://github.com/josh-mock/land-registry-search): A searchable web app that displays and filters HM Land Registry datasets on UK and overseas companies owning property in England and Wales.
+- [Portfolio Site](https://github.com/josh-mock/portfolio-site): This is my landing page, showcasing my software engineering journey so far.
+- [Multilingual Wordle](https://github.com/josh-mock/multilingual-wordle): A multilingual homage to the popular word-guessing game. The app supports both left-to-right and right-to-left languages such as Arabic and Persian.
 
 ---
 
