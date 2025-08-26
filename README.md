@@ -35,8 +35,5 @@ I'm now looking to launch my career in tech, where I can combine my curiosity, t
 ## 🌐 Connect with Me
 
 - 🌍 [Personal Website](https://josh-mock.com)
+- 🌍 [LinkedIn](https://www.linkedin.com/in/josh-mock/)
 
----
-
-_Thanks for stopping by!_  
-_⭐️ Feel free to explore my repositories and leave a star or feedback!_
